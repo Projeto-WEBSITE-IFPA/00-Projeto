@@ -26,7 +26,7 @@ e) Publicação de todo o conteúdo no github;
 a)   Construção das Interfaces em um projeto de programação web, utilizando recursos estudados no curso;
 b)   Publicação do projeto no github;
 
-*Etapa 03(2 pontos)
+* Etapa 03(2 pontos)
 a)   Construção de todo o backend do projeto utilizando recursos estudados no curso.
 b)   Publicação do projeto no github;
 c)    Vídeo com a apresentação básica do projeto.
